@@ -9,3 +9,5 @@ Move the `mod-updater.py` file into your root directory of the server.
 **Don't forget to modify the script variables with your needs e.g. SteamCMD login**
 
 Script execution: `python mod-updater.py`
+
+Not tested on Windows, feel free to give feedback on that case.
