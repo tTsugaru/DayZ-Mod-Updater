@@ -27,7 +27,7 @@ should_clear = True
 
 # Workshop items that you want to download
 workshop_item_ids = [
-    # Bets approach here is to write the name and link to the mod so you dont loose it
+    # Best approach here is to write the name and link to the mod so you dont loose it
     # e.g. 1559212036, # CF Framework - https://steamcommunity.com/sharedfiles/filedetails/?id=1559212036
 ]
 
